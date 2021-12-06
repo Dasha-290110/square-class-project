@@ -1,0 +1,38 @@
+.heading{
+    color: rgb(0, 0, 0);
+ background-color:rgb(216, 214, 102);
+
+}
+
+.note{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.copyright{
+    position: fixed;
+    bottom: 0;
+    font-size: 20px;
+    width:100% ;
+    color: rgb(0, 0, 0);
+    line-height:1;
+    text-align: center;
+    background-color: cyan;
+}
+
+.sq2{
+    width: 50;
+    height: 50
+}
+
+canvas{
+    box-shadow:1px 1px 38px black;
+    border: 5px dotted black;
+    margin-top: 60px;
+}
+
+video{
+    box-shadow:1px 1px 38px black;
+    border: 5px dotted black; 
+    margin-top: 60px;
+}
